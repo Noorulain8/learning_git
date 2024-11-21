@@ -1,2 +1,2 @@
 # learning_git
-trying to learn git
+i want to learn how to use git
